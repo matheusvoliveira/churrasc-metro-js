@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-top: 30px;
+
+}
+main{
+    background: rgb(205, 245, 250);
+    padding: 15px;
+    max-width: 250px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(62, 61, 61);
+}
+.inp{
+    margin-bottom: 10px;
+    width: 235px;
+    padding: 5px;
+    border-radius: 60px;
+    border: 1px black solid;
+}
+#calcular{
+    padding: 5px;
+    border-radius: 60px;
+    border: 1px black solid;
+}
